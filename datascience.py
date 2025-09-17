@@ -20,4 +20,3 @@ class word:
         print(self.subtract())
         print(self.product())
         print(self.divdie())
-animals = ['fox','cat','dog']
