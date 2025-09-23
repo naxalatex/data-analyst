@@ -7,7 +7,7 @@ print(arrays /4)
 print(arrays **3)
 
 #vector arithmetic (1D array) mathematical operaition on arrays
-#If you use a function that works on each elements  of a vector - also vector operation
+#If you us5e a function that works on each elements  of a vector - also vector operation
 
 array = np.array([1,2,3,4,5,6])
 array1 = np.array([1.0,2.3,5,1,8.6])
