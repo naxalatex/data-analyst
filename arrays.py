@@ -40,3 +40,4 @@ q = np.array(a)
 print(q[0,1,1])
 print(q[1,0,1])
 arrs = np.arange(1, 26).reshape(5, 5)
+
