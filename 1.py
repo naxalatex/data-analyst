@@ -14,6 +14,3 @@ A = np.array([[1,2,3],
 B = np.array([[10,20,30]])
 c = B+A
 print(c)
-
-
-
