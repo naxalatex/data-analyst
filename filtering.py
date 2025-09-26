@@ -32,4 +32,3 @@ new = scores[scores>60]
 print(new)
 print(new.mean())
 print(scores.size)
-
