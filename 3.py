@@ -43,4 +43,13 @@ arr = np.array([[1,2,2],[3,4,4],[5,6,6]])
 new = arr.flatten()
 new = np.unique(arr)
 new = np.reshape(2,-1)
-new = print(new)
+print(new)
+
+arr = np.array([10,20,70,90],
+               [30,80,50,60])
+new = arr[arr>30]
+print(new)
+new = arr[(arr>30) & (arr<70)]
+print(new)
+new = np.reshape(new,3,3)
+print(new)
